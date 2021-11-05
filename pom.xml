@@ -7,7 +7,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>kaolin-spring-cloud</name>
     <packaging>pom</packaging>
-    <description>1111111111111111111111111111111111111111111111111111111Demo project for Spring Boot</description>
+    <description>Phil project for Spring Boot</description>
 
     <modules>
         <module>kaolin-spring-cloud-provider</module>
